@@ -1,0 +1,2 @@
+# TDAT2004-DatakommunikasjonMedNettverksprogrammering
+Datakommunikasjon: Standardisering og lagdelt kommunikasjon. Protokoller på applikasjonslag, transportlag, nettverkslag, lenkelag og overføringsteknologi på fysisk lag. Om nettverksstrukturer og virkemåten til nettverkskomponenter. Programmering: Tråder og synkronisering. Sockets (UDP og TCP). Høyerenivå nettverks API (er). Object-Relational Mapping(ORM).
